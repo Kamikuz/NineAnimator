@@ -19,6 +19,7 @@
 
 import XCTest
 
+
 class ScreenshotAutomation: XCTestCase {
     func testLibraryScene() {
         let app = launchApplication()
