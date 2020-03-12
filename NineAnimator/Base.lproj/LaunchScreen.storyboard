@@ -63,10 +63,6 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" hidesWhenStopped="YES" animating="YES" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="uYD-8O-weh">
-                                                        <rect key="frame" x="170" y="389" width="20" height="20"/>
-                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    </activityIndicatorView>
                                                 </subviews>
                                                 <constraints>
                                                     <constraint firstItem="3Dh-Yo-xY2" firstAttribute="top" secondItem="3nG-uJ-LDR" secondAttribute="bottom" id="5mQ-hS-LgC"/>
